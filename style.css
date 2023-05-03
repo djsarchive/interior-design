@@ -80,7 +80,7 @@ header{
 
 /* about */
 .about-img{
-    background: url(/images/interior-design-trend.jpg) center/cover no-repeat;
+    background: url(images/interior-design-trend.jpg) center/cover no-repeat;
     min-height: 200px;
 }
 .about-text .btn{
@@ -92,7 +92,7 @@ header{
 
 /* features */
 .features-img{
-    background: url(/images/Cool-Colored-Wall-Art.png) center/cover no-repeat;
+    background: url(images/Cool-Colored-Wall-Art.png) center/cover no-repeat;
     min-height: 500px;
 }
 .features-text .line{
@@ -110,7 +110,7 @@ header{
 
 /* studio */
 .studio-img{
-    background: url(/images/portfolio-interiors-dining.jpg) center/cover no-repeat;
+    background: url(images/portfolio-interiors-dining.jpg) center/cover no-repeat;
     min-height: 500px;
 }
 .studio-text .line{
@@ -145,7 +145,7 @@ header{
 
 /* contact */
 #contact{
-    background: url(/images/dark-wall-interior-design-scaled.jpeg) center/cover no-repeat;
+    background: url(images/dark-wall-interior-design-scaled.jpeg) center/cover no-repeat;
 }
 #contact form{
     max-width: 600px;
